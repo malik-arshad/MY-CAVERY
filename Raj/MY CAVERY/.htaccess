@@ -2,11 +2,11 @@
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /wordpress/
+RewriteBase /MY%20CAVERY/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /wordpress/index.php [L]
+RewriteRule . /MY%20CAVERY/index.php [L]
 </IfModule>
 
 # END WordPress

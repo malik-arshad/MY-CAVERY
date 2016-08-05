@@ -1,0 +1,13 @@
+website passwords:
+
+Urf#YIv0NJA6Ib&LWohwj67v
+
+
+
+
+
+http://localhost/wordpress/about-us
+
+
+
+http://localhost/wordpress/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fwordpress%2F
